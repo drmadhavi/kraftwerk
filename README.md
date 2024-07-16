@@ -1,11 +1,14 @@
-Assignment5_1
+**Assignment5_1**
 
 by Madhavi Natarjan
 
-Problem Statement
+**Link to the Notebook**: https://github.com/drmadhavi/kraftwerk/tree/assign_5_1
+
+**Problem Statement**
+
 Will a customer accept the coupon? Analyse the given dataset to check the acceptance rates for different coupons and do analysis of coupons offered.
 
-Final Summary
+**Final Summary**
 - There are a lot of missing elements for the car column. The car had 12576 entries as null. Further, 99.1% of the car entries are NaN. Therefore dropped the car column as it did not have significant information that may impact the analysis.
 
 - The acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to all others is 68.2% vs 33.7%
